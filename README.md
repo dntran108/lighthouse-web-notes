@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by  TranNghia for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Nghia](https://github.com/dntran108) for the Lighthouse Labs Web Development Bootcamp.
